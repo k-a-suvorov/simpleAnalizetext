@@ -151,4 +151,4 @@ def exitSoft():
 def errorInputMessage():
 # Function error message 
     print(Fore.RED, Style.BRIGHT + 'Выбрано некорректное значение, пожалуйста, исправьте ошибку!')
-    softmenu()
+    softMenu()
